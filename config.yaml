@@ -1,0 +1,9 @@
+app:
+  port: 5000
+
+db:
+  host: "mariadb_hystrix"
+  port: 3307
+  username: root
+  password: 1234
+  database: Redis
